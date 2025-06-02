@@ -11,3 +11,10 @@ div.parte1{background-color: blueviolet
     ;}
 div.parte2{background-color: rgb(43, 103, 255);
 }
+img{
+    border-color: aliceblue;
+    border-radius: 20px;
+    border-width: 3px;
+    border-style: solid;
+
+}
