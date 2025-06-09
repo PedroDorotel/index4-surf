@@ -8,8 +8,12 @@ img{
     width: 700px;
 }
 div.parte1{background-color: blueviolet
+    margin-left: 500px;
+    margin-right: 500px;
     ;}
 div.parte2{background-color: rgb(43, 103, 255);
+    margin-left: 500px;
+    margin-right: 500px;
 }
 img{
     border-color: aliceblue;
